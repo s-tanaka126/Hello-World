@@ -4,7 +4,7 @@ public class Kadai02 {
 
 	public static void main(String[] args) {
 		
-		//テスト
+		//変更
 		
 	}
 
